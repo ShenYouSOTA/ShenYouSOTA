@@ -1,4 +1,4 @@
-- 👋 Hi, I’m CULT, year 2 student of the Chinese University of Hongkong.
+- 👋 Hi, I’m sota, year 2 student of the Chinese University of Hongkong.
 - 👀 I’m interested in AGI and artificial voice.
 - 🌱 I’m currently learning Data Structure.
 - ⚡ Fun fact: I download a bunch of study notes from Github to boost my academic performance.
