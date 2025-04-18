@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sota, year 2 student from The Chinese University of Hong Kong, Shenzhen.
 - 👀 I’m interested in quant trading and AI in music & art.
-- 🌱 I’m currently learning C++23.
+- 🌱 I’m currently learning C++23 and planning to apply for PhD.
 - ⚡ Fun fact: When I get excited I cannot help singing.
 
 <!---
