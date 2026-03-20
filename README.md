@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sota
-- 👀 I’m interested in quant trading and AI in music & art.
-- 🌱 I’m currently learning typescript and planning to apply for PhD.
+- 👀 I’m interested in start-up and agent orchestration.
+- 🌱 I’m currently learning typescript and planning to apply for SRE/Devops.
 - ⚡ Fun fact: When I get excited I cannot help singing.
 
 <!---
