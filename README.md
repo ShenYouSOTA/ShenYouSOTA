@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sota
-- 👀 I’m interested in start-up and agent orchestration.
-- 🌱 I’m currently learning typescript and planning to apply for SRE/Devops.
+- 👀 I’m majoring in systematic investing low latency system.
+- 🌱 I’m currently learning vLLM and RDMA.
 - ⚡ Fun fact: When I get excited I cannot help singing.
 
 <!---
