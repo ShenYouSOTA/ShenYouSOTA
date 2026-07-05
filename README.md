@@ -1,6 +1,6 @@
 - 👋 Hi, I’m sota
-- 👀 I’m majoring in systematic investing and low latency system.
-- 🌱 I’m currently learning vLLM and RDMA.
+- 👀 I’m majoring in Financial Engineering.
+- 🌱 I’m currently working on robotics and AI infra.
 - ⚡ Fun fact: When I get excited I cannot help singing.
 
 <!---
